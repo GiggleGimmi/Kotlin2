@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin2</string>
+    <string name="mTitle">Please input something</string>
+    <string name="something">Something</string>
+    <string name="mButton">Show Input</string>
+    <string name="mOutput">""</string>
+</resources>
